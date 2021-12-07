@@ -1,7 +1,8 @@
-# Hola 👋 Welcome to My GitHub
-![](https://visitor-badge.laobi.icu/badge?page_id=yusptar)
-- 😄 I’m currently learning Flutter, Laravel, and Adobe Photoshop
-
+# Hola 👋 Ucup is here
+- 🌱 I’m currently learning Flutter, Laravel, and Adobe Photoshop
+- ⚡ Fun fact: Roses are Red Violets are Blue
+- 😄 Pronouns: He/Him
+- 
 ## Languages and Tools:
 <p align="center">
 <img align="left" alt="Laravel" width="30px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
