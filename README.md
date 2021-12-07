@@ -21,9 +21,9 @@
 ## Github Stats:
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=chrisdionisius&theme=tokyonight">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=yusptar&count_private=true&show_icons=true&theme=aura_dark" />
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=yusptar&count_private=true&show_icons=true&theme=algolia" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisdionisius&hide=php&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusptar&hide=c%23,html,asp.net&theme=aura_dark&langs_count=6" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusptar&hide=c%23,html,asp.net&theme=algolia&langs_count=6" />
 </a>
 </div>
