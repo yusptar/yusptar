@@ -20,19 +20,26 @@
 ## ⚙️ &nbsp;GitHub Analytics
 <br>
 
-<p align="center">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=yusptar&show_icons=true&theme=nightowl" alt="yupstar's stats"/>
-</p>
+<div>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=yusptar&hide=php&theme=nightowl">
+    <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusptar&theme=nightowl" />
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api?username=yusptar&theme=nightowl">
+    <img align="left"  src="https://github-readme-stats.vercel.app/api?username=yusptar&show_icons=true&theme=nightowl" alt="yupstar's stats"/>
+  </a>
+</div>
 
 ##
 
-<p align="center" style="background:blue">
-  <a href="https://www.instagram.com/mchyush" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-yusptar-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://www.linkedin.com/in/mchyush" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-yusptar-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-</p>
+<!-- <div>
+  <p align="center" style="background:blue">
+    <a href="https://www.instagram.com/mchyush" target="_blank">
+   <img align="center" src="https://img.shields.io/badge/-yusptar-05122A?style=flat&logo=instagram" alt="instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mchyush" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-yusptar-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  </a>
+  </p>
+</div> -->
 
 
