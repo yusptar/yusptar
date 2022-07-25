@@ -19,11 +19,11 @@
 <br>
 
 <div>
-  <!-- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=yusptar&hide=php&theme=nightowl">
-    <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusptar&&hide=c%23,html,asp.net,scss&theme=nightowl" />
-  </a> -->
-  <a href="https://github-readme-stats.vercel.app/api?username=yusptar&theme=nightowl">
-    <img align="center"  src="https://github-readme-stats.vercel.app/api?username=yusptar&show_icons=true&theme=nightowl" alt="yupstar's stats"/>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=yusptar&hide=php&theme=swift">
+    <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusptar&&hide=c%23,html,asp.net,scss&theme=swift" />
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api?username=yusptar&theme=swift">
+    <img align="left"  src="https://github-readme-stats.vercel.app/api?username=yusptar&show_icons=true&theme=swift" alt="yupstar's stats"/>
   </a>
 </div>
 
