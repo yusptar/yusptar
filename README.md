@@ -1,9 +1,9 @@
 ## ***Hello There!*** <img src="https://user-images.githubusercontent.com/71871211/128218014-e4ee2b40-54dd-4ccd-99eb-2439f2f7adf7.gif" width="40" height="35"/>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusptar&color=blueviolet" alt="Profile views" /> </p> -->
 <!-- <img align="right" width="300em" height="300em" src="https://github.com/birobirobiro/birobirobiro/blob/master/animation_500_kv8i962g.gif?raw=true"/> -->
-- I’m currently learning Framework Laravel, Flutter, Adobe Photoshop, Adobe Illustrator
+- I’m currently learning everything.
 
-## 🛠 &nbsp;***Working Tools***
+## ***Working Tools***
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
@@ -15,17 +15,15 @@
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 
-## ⚙️ &nbsp;***GitHub Stats***
+## ***GitHub Stats***
 <br>
 
 <div>
- 
-
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=yusptar&hide=php&theme=swift">
-    <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusptar&count_private=true&hide=c%23,html,asp.net,scss&theme=swift" />
+    <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusptar&count_private=true&hide=c%23,html,asp.net,scss&theme=ayu-mirage" />
   </a>
   <a href="https://github-readme-stats.vercel.app/api?username=yusptar&theme=swift">
-    <img align="left"  src="https://github-readme-stats.vercel.app/api?username=yusptar&show_icons=true&count_private=true&theme=swift" alt="yupstar's stats"/>
+    <img align="left"  src="https://github-readme-stats.vercel.app/api?username=yusptar&show_icons=true&count_private=true&theme=ayu-mirage" alt="yupstar's stats"/>
   </a>
 </div>
 
