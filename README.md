@@ -3,7 +3,7 @@
 <!-- <img align="right" width="300em" height="300em" src="https://github.com/birobirobiro/birobirobiro/blob/master/animation_500_kv8i962g.gif?raw=true"/> -->
 
 ```javascript
-const introduceMyProgrammingLanguage = {
+const intro = {
   programming_language: [PHP, AJAX, JQuery, JavaScript, HTML, CSS],
   database: [MySQL]
 }
