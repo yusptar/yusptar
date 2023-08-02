@@ -24,10 +24,10 @@ const intro = {
 ## ***Reach me***
   <p align="center" style="background:white">
     <a href="https://www.instagram.com/mchyush" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/-yusptar-05122A?style=flat&logo=instagram" alt="instagram"/>
+      <img align="center" src="https://img.shields.io/badge/-mchyush-05122A?style=flat&logo=instagram" alt="instagram"/>
     </a>
     <a href="https://www.linkedin.com/in/mchyush" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/-yusptar-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+      <img align="center" src="https://img.shields.io/badge/-mchyush-05122A?style=flat&logo=linkedin" alt="linkedin"/>
     </a>
   </p>
   
