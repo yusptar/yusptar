@@ -15,18 +15,6 @@
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp; -->
 
-## ***GitHub Stats***
-<br>
-
-<div>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=yusptar&hide=php&theme=swift">
-    <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusptar&count_private=true&hide=c%23,html,asp.net,scss&theme=ayu-mirage"/>
-  </a>
-  <a href="https://github-readme-stats.vercel.app/api?username=yusptar&theme=swift">
-    <img align="left"  src="https://github-readme-stats.vercel.app/api?username=yusptar&show_icons=true&count_private=true&theme=ayu-mirage" alt="yupstar's stats"/>
-  </a>
-</div>
-
 ## ***Reach me***
   <p align="center" style="background:white">
     <a href="https://www.instagram.com/mchyush" target="_blank">
