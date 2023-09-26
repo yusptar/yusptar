@@ -4,8 +4,9 @@
 
 ```javascript
 const intro = {
-  programming_language: [PHP, AJAX, JQuery, JavaScript, HTML, CSS],
-  database: [MySQL]
+  programming_language: [PHP, AJAX, JQuery, JavaScript, HTML, CSS, React, Dart, Java],
+  framework: [Laravel, Flutter, Next.js] 
+  database: [SQL]
 }
 ```
 
