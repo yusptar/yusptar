@@ -1,13 +1,13 @@
-## ***Hello There!*** <img src="https://user-images.githubusercontent.com/71871211/128218014-e4ee2b40-54dd-4ccd-99eb-2439f2f7adf7.gif" width="40" height="35"/>
+## ***Hello There!*** 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusptar&color=blueviolet" alt="Profile views" /> </p> -->
 <div>
     <p align="center" style="background:white">
       <img align='center' src="https://media.giphy.com/media/ZDxrPdX4Au7St8r36N/giphy.gif" width="320" height="200">
     </p>
      <p align="center" style="background:white">
-      <a href="https://www.linkedin.com/in/mchyush" target="_blank">
+       ● ● <a href="https://www.linkedin.com/in/mchyush" target="_blank">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-      </a>
+      </a> ● ● 
     </p>
 </div>
 
