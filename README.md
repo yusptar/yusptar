@@ -7,6 +7,7 @@ const intro = {
   programming_language: [PHP, AJAX, JQuery, JavaScript, HTML, CSS, React, Dart, Java],
   framework: [Laravel, Flutter, Next.js] 
   database: [SQL]
+  design_tools: [Adobe Photoshop, Adobe Illustratror, Adobe Lightroom, Phonto]
 }
 ```
 
