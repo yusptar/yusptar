@@ -7,6 +7,7 @@
      <p align="center" style="background:white">
        ● ● <a href="https://www.linkedin.com/in/mchyush" target="_blank">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+        <img align="center" src="https://img.shields.io/badge/Researchgate-FFFFFF?style=for-the-badge&logo=researchgate&logoColor=black" alt="researchgate"/>
       </a> ● ● 
     </p>
 </div>
