@@ -8,18 +8,20 @@
           <a href="https://www.linkedin.com/in/mchyush" target="_blank">
             <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
           </a> 
+<!--          <a href="https://www.instagram.com/mchyush" target="_blank">
+            <img align="center" src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" alt="linkedin"/>
+          </a> 
           <a href="https://www.researchgate.net/profile/Moch-Hermawan-2" target="_blank">
             <img align="center" src="https://img.shields.io/badge/Researchgate-FFFFFF?style=for-the-badge&logo=researchgate&logoColor=black" alt="researchgate"/>
-          </a>
+          </a> -->
     </p>
 </div>
 
 ```javascript
 const intro = {
-  programming_language: [PHP, AJAX, JQuery, JavaScript, HTML, CSS, Dart, Java],
-  framework: [Laravel, Flutter, Next.js, React] 
+  programming_language: [PHP, AJAX, JQuery, TypeScript, JavaScript, HTML, CSS, Java],
+  framework: [Laravel, Next.js, React] 
   database: [SQL]
-  design_tools: [Adobe Photoshop, Adobe Illustratror, Adobe Lightroom, Phonto]
 }
 ```
 
