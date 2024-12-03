@@ -21,7 +21,7 @@
 const intro = {
   programming_language: [PHP, AJAX, JQuery, TypeScript, JavaScript, HTML, CSS, Java],
   framework: [Laravel, Next.js, React] 
-  database: [SQL]
+  database: [MySQL]
 }
 ```
 
